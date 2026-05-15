@@ -33,7 +33,7 @@ University Hospitals Birmingham was the busiest single A&E in England in March 2
 ### 2. Four Hour Wait Performance
 The NHS target is that fewer than 5% of patients should wait over 4 hours. Analysis revealed that virtually no trust is meeting this target. University Hospitals Plymouth was the worst performer with 62.55% of patients waiting over 4 hours.
 
-A notable regional pattern emerged — four Cheshire-based trusts all appeared in the worst performers list, suggesting regional systemic pressures rather than isolated hospital issues:
+A notable regional pattern emerged, four Cheshire-based trusts all appeared in the worst performers list, suggesting regional systemic pressures rather than isolated hospital issues:
 - Mid Cheshire Hospitals (52.55%)
 - Wirral University Teaching Hospital (51.74%)
 - Countess of Chester Hospital (50.94%)
@@ -61,7 +61,7 @@ Only **Sheffield Children's NHS Foundation Trust** achieved a Good rating (2.16%
 
 ## Conclusions
 
-The data paints a concerning picture of NHS emergency care in March 2026. No trust is close to meeting the 95% four hour wait target, with the majority falling into the Poor performance band. Regional clustering of underperforming trusts in areas like Cheshire suggests that systemic, area-wide pressures — such as staffing shortages or population demand — may be contributing factors beyond individual hospital management.
+The data paints a concerning picture of NHS emergency care in March 2026. No trust is close to meeting the 95% four hour wait target, with the majority falling into the Poor performance band. Regional clustering of underperforming trusts in areas like Cheshire suggests that systemic, area-wide pressures, such as staffing shortages or population demand may be contributing factors beyond individual hospital management.
 
 Trusts such as Nottingham and Shrewsbury, which appear across multiple measures, warrant particular attention as persistent underperformers.
 
